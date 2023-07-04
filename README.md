@@ -1,1 +1,1 @@
-# exercicio1
+Primeiro exercicio usando o github
